@@ -12,7 +12,7 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Reflection
 
-* Tuesday, November 2016 - 
+* Tuesday, November 29th 2016 - 
   
   ```How did you perform today?``` Today was the first day of the 3 week ColLab period. We focused on the principles of what the responsibilities of ColLabs and how to handle the time properly. The rubrics for successful projects were given with the first two best catagories left intentionally blank, which each filled with their own opinion of an excellent project. I added qualities I felt I would need to have a successful three weeks. I focused on time management and the responsibility of completing all assignments, reflections and updates on time with plenty of expressed effort.
   
