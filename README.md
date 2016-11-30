@@ -8,7 +8,9 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Progress
 
-* Started Github Repository to document my progress and manage all the code needed for my independent project
+* Tuesday, November 29th 2016 - Started Github Repository to document my progress and manage all the code needed for my independent project
+
+![Preview](images/Github_Repo.png)
 
 # Daily Reflection
 
