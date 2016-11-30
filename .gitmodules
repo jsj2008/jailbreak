@@ -1,0 +1,3 @@
+[submodule "jailbreak"]
+	path = jailbreak
+	url = https://github.com/derekforesman/jailbreak
