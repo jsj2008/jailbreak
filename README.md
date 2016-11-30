@@ -1,2 +1,3 @@
-# jailbreak
-Repository for jailbreak research and development
+# iOS Jailbreaking and Security
+
+![Preview](Preview.png)
