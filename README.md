@@ -8,6 +8,8 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Progress
 
+* Wednesday, November 30th 2016 - 9:15 AM - Compiled [Jonathan Levin's](https://newosxbook.com "Newosxbook.com") Jtool for ARM Cortex-A9 processor architecture on iPhone 4s for debugging of 32 bit binaries. Once compiled, I set up necessary keys for SSH access to iPhone 4s over wifi.
+
 * Tuesday, November 29th 2016 - Started Github Repository to document my progress and manage all the code needed for my independent project
 
 ![Preview](images/Github_Repo.png)
