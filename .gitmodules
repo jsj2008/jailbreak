@@ -1,3 +1,7 @@
 [submodule "jailbreak"]
 	path = jailbreak
 	url = https://github.com/derekforesman/jailbreak
+	
+[submodule "jailbreak"]
+	path = jailbreak/jailbreak
+	url = https://github.com/derekforesman/jailbreak	
