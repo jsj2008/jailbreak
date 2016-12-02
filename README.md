@@ -8,6 +8,8 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Updates
 
+* Friday, December 2nd - 12:00 PM - [END OF HTML STACK...WVZoa2FHSnVVakJpTWxveFdUSjBNR0l6Vm5sWmJXd3dXVEpuUFE9PQ==]
+
 * Friday, December 2nd - 9:30 AM - Trying to broaden my creative aspect with a video I made of my iBoot exploit in action. This was taken on an iPhone 4s, running iOS 7.1.2 when booted.
 
 ![Preview](images/imovie.png)
