@@ -1,4 +1,4 @@
-# iOS Jailbreaking and Security - Derek Foresman 
+# Apple iOS Security - Derek Foresman 
 
 [© 2016 MTAC](https://twitter.com/mtac8 "MTAC Twitter")
 
