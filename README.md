@@ -8,6 +8,10 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Updates
 
+* Monday, December 5th - 11:15 AM - I started editing the video for my lockscreen bypass that was found over the weekend. When a new iPhone is sold, it is locked to a user's account. If the user loses his or her password, the device becomes a paperweigh unless proof can be given to Apple. A lockscreen bypass circumvents this, and is a major security risk, which is why it will be patched in the next update to iOS. This flaw is very similar to ones in the past where random characters in a text field overflow the allocated memory causing the setup app to crash.
+
+![Preview](images/imovie-2.png)
+
 * Monday, December 5th - 9:30 AM - I contacted Johnathan Levin about the purchase of his book on iOS Internals. Further research also provided me with Black Hat 2016 [remote web-based sandbox escape](https://www.blackhat.com/asia-17/briefings/schedule/#remotely-compromising-ios-via-wi-fi-and-escaping-the-sandbox-5284) for iOS by Marcos Grassi. This will help me greatly because I still need a web exploit for my jailbreak to be used by just visiting one website. 
 
 * Friday, December 2nd - 2:00 PM - I looked at the code from the [Limera1n exploit](https://www.theiphonewiki.com/wiki/Limera1n_Exploit) made by [Geohot](https://en.wikipedia.org/wiki/George_Hotz). The code for the exploit is very short considering the amount of power a user as with this exploit as it is for iBoot and cannot be patched by a simple iOS software update. 
