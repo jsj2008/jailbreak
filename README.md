@@ -10,7 +10,7 @@ This is the repository that I will be using to document my progress and maintain
 
 * Monday, December 5th - 11:30 AM - Small update, but video finished processing and is live on YouTube [Here](https://www.youtube.com/watch?v=Cg8FAgkW9wI&feature=youtu.be "YouTube")
 
-* Monday, December 5th - 11:15 AM - I started editing the video for my lockscreen bypass that was found over the weekend. When a new iPhone is sold, it is locked to a user's account. If the user loses his or her password, the device becomes a paperweigh unless proof can be given to Apple. A lockscreen bypass circumvents this, and is a major security risk, which is why it will be patched in the next update to iOS. This flaw is very similar to ones in the past where random characters in a text field overflow the allocated memory causing the setup app to crash. This is nice for me too because this gives me an opportunity to learn a little video editing while I am at it.
+* Monday, December 5th - 11:15 AM - I started editing the video for my lockscreen bypass that was found over the weekend. When a new iPhone is sold, it is locked to a user's account. If the user loses his or her password, the device becomes a paperweight unless proof can be given to Apple. A lockscreen bypass circumvents this, and is a major security risk, which is why it will be patched in the next update to iOS. This flaw is very similar to ones in the past where random characters in a text field overflow the allocated memory causing the setup app to crash. This is nice for me too because this gives me an opportunity to learn a little video editing while I am at it.
 
 ![Preview](images/imovie-2.png)
 
