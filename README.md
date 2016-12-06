@@ -8,6 +8,14 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Updates
 
+* Tuesday, December 6th - 6:45 PM - 
+
+* Tuesday, December 6th - 4:15 PM - 
+
+* Tuesday, December 6th - 3:00 PM - I recently cooperated with Lucas Peruzzi on a Cydia tweak called Janus for iOS, which helped with the backing up and restoration of tweak settings and themes. He goes by [@iOSResearchr](https://twitter.com/iOSResearchr). He agreed to answer questions as he knows quite a bit about factory and custom iOS firmwares as well as some low level stuff. We both have found iBoot exploits when working together.
+
+* Tuesday, December 6th - 1:30 PM - I finished my voiceovers for both of my videos. I hope they are enough to explain the technical aspect of what goes on in each video. I found an article on [/r/jailbreak](http://reddit.com/r/jailbreak) that mentioned the dumping of the SecureROM. Apple offers $50,000 for a dump of SecureROM, but it often requires expensive custom jigs.
+
 * Tuesday, December 6th - 11:15 AM - Didn't have official meeting for collab, but I am continuing on blog posts. I started the recording of my voice overs and tryign to learn to edit the audio onto the video.
 
 * Monday, December 5th - 2:00 AM - I still need to finish my voice overs of my iCloud Bypass and my iBoot exploit, so I worked on disassembling Evasi0n for iOS 6.1.2. This jailbreak changed the way jailbreaks work. Evasi0n was the first to attack AMFI instead of trying to patch around it. This changed in iOS 6.1.3 and higher as Apple patched the jailbreak in the next firmware update.
