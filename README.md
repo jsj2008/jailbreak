@@ -14,6 +14,8 @@ This is the repository that I will be using to document my progress and maintain
 
 * Tuesday, December 6th - 3:00 PM - I recently cooperated with Lucas Peruzzi on a Cydia tweak called Janus for iOS, which helped with the backing up and restoration of tweak settings and themes. He goes by [@iOSResearchr](https://twitter.com/iOSResearchr). He agreed to answer questions as he knows quite a bit about factory and custom iOS firmwares as well as some low level stuff. We both have found iBoot exploits when working together.
 
+![Preview](images/janus.png)
+
 * Tuesday, December 6th - 1:30 PM - I finished my voiceovers for both of my videos. I hope they are enough to explain the technical aspect of what goes on in each video. I found an article on [/r/jailbreak](http://reddit.com/r/jailbreak) that mentioned the dumping of the SecureROM. Apple offers $50,000 for a dump of SecureROM, but it often requires expensive custom jigs.
 
 * Tuesday, December 6th - 11:15 AM - Didn't have official meeting for collab, but I am continuing on blog posts. I started the recording of my voice overs and tryign to learn to edit the audio onto the video.
