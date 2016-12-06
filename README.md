@@ -8,6 +8,8 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Updates
 
+* Tuesday, December 6th - 11:15 AM - Didn't have official meeting for collab, but I am continuing on blog posts. I started the recording of my voice overs and tryign to learn to edit the audio onto the video.
+
 * Monday, December 5th - 2:00 AM - I still need to finish my voice overs of my iCloud Bypass and my iBoot exploit, so I worked on disassembling Evasi0n for iOS 6.1.2. This jailbreak changed the way jailbreaks work. Evasi0n was the first to attack AMFI instead of trying to patch around it. This changed in iOS 6.1.3 and higher as Apple patched the jailbreak in the next firmware update.
 
 * Monday, December 5th - 11:30 AM - Small update, but iOS 10.1.1 iCloud Lock Bypass video finished processing and is live on YouTube [Here](https://www.youtube.com/watch?v=Cg8FAgkW9wI&feature=youtu.be "YouTube")
