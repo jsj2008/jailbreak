@@ -8,15 +8,17 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Updates
 
-* Tuesday, December 6th - 6:45 PM - 
+* Tuesday, December 6th - 6:45 PM - The price of a SecureROM dump kit is not as bad as I had originally considered. If I can find the funds, I plan on buying it because I can use one of my old iPhone 5S's as a test for bootrom dumps. Image credit - [https://ramtin-amin.fr/](https://ramtin-amin.fr/)
 
-* Tuesday, December 6th - 4:15 PM - 
+![Preview](images/jig.png)
+
+* Tuesday, December 6th - 4:15 PM - Started research on the SecureROM's part in the upgrade and therefore downgrade of iOS devices. This specific chip did not exist on the logic board before iOS 7 and the introduction of the iPhone 5S. The iPhone 5S was the first 64 bit iPhone, which leads me to believe that SecureROM can only be utilized by modern phones that are 64 bit. If this is the case, older iDevices (everything up until iPhone 5S and iPad Air) can be exploited due to their lack of a SecureRom.
 
 * Tuesday, December 6th - 3:00 PM - I recently cooperated with Lucas Peruzzi on a Cydia tweak called Janus for iOS, which helped with the backing up and restoration of tweak settings and themes. He goes by [@iOSResearchr](https://twitter.com/iOSResearchr). He agreed to answer questions as he knows quite a bit about factory and custom iOS firmwares as well as some low level stuff. We both have found iBoot exploits when working together.
 
 ![Preview](images/janus.png)
 
-* Tuesday, December 6th - 1:30 PM - I finished my voiceovers for both of my videos. I hope they are enough to explain the technical aspect of what goes on in each video. I found an article on [/r/jailbreak](http://reddit.com/r/jailbreak) that mentioned the dumping of the SecureROM. Apple offers $50,000 for a dump of SecureROM, but it often requires expensive custom jigs.
+* Tuesday, December 6th - 1:30 PM - I finished my voiceovers for both of my videos. I hope they are enough to explain the technical aspect of what goes on in each video. I found an article on [/r/jailbreak](http://reddit.com/r/jailbreak) that mentioned the dumping of the SecureROM. Apple offers $200,000 for a dump of SecureROM, but it often requires expensive custom jigs.
 
 * Tuesday, December 6th - 11:15 AM - Didn't have official meeting for collab, but I am continuing on blog posts. I started the recording of my voice overs and tryign to learn to edit the audio onto the video.
 
