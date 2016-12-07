@@ -8,6 +8,11 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Updates
 
+* Tuesday, December 6th - 7:30 PM - I found a few phones to test my iBoot exploit on both 32 and 64 bit from iPhone 3 to iPhone 7
+
+![Preview](images/stack1.png)
+![Preview](images/stack2.png)
+
 * Tuesday, December 6th - 6:45 PM - The price of a SecureROM dump kit is not as bad as I had originally considered. If I can find the funds, I plan on buying it because I can use one of my old iPhone 5S's as a test for bootrom dumps. Image credit - [https://ramtin-amin.fr/](https://ramtin-amin.fr/)
 
 ![Preview](images/jig.png)
