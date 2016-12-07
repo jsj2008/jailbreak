@@ -8,6 +8,12 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Updates
 
+* Wednesday, December 7th - 10:30 AM - I rebuilt the phone after taking it apart to get to the bootrom. I made a short video showing exactly how intricate the internals of an iPhone are. I made it into a timelapse because it takes very long to put in multiple tiny screws, and is therefore boring when in full time.
+
+![Preview](images/imovie-3.png)
+
+* Wednesday, December 7th - 9:00 AM - I am starting on trying to dump the SecureROM of an iPhone 4 on iOS 7.1.2. I disassembled the iPhone to get to the logic board, where the bootrom is soldered on. This is difficult because there are very tight metal shield plates covering each chip to protect from damage and radio interference. I will need to make a custom device that can connect to the pins of the bootrom but not remove it from the board so I can still boot the iPhone and get debugger data.
+
 * Tuesday, December 6th - 7:30 PM - I found a few phones to test my iBoot exploit on both 32 and 64 bit from iPhone 3 to iPhone 7
 
 ![Preview](images/stack1.JPG)
