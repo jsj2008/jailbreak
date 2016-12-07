@@ -8,6 +8,8 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Updates
 
+* Wednesday, December 7th - 11:15 AM - Small update, iPhone rebuild video live [here](https://youtu.be/wEIcuRnknt8)
+
 * Wednesday, December 7th - 10:30 AM - I rebuilt the phone after taking it apart to get to the bootrom. I made a short video showing exactly how intricate the internals of an iPhone are. I made it into a timelapse because it takes very long to put in multiple tiny screws, and is therefore boring when in full time.
 
 ![Preview](images/imovie-3.png)
