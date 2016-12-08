@@ -12,9 +12,9 @@ This is the repository that I will be using to document my progress and maintain
 
 * Thursday, December 8th - 3:00 PM - I successfully downgraded an iPhone 4 from iOS 7.1.2 to iOS 4.3.3. It is amazing that this method I used actually worked for once. This is normally not allowed by Apple by any means, but since it is tethered I could do it. Unfortunately, every time the device runs out of battery or reboots, it must be booted via a computer each time.
 
-![Preview](images/4.1.png)
-![Preview](images/4.2.png)
-![Preview](images/4.3.png)
+![Preview](images/4.1.PNG)
+![Preview](images/4.2.PNG)
+![Preview](images/4.3.PNG)
 
 * Thursday, December 8th - 1:15 PM - I finished the video, and now I am trying to tether downgrade an iPhone 4 from iOS 7.1.2 to iOS 4.3.3.
 
