@@ -8,7 +8,7 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
-* Thursday, December 8th - 5:45 PM -
+* Thursday, December 8th - 5:45 PM - Editing another voice over on the iBoot and tethered downgrade of an iPod Touch 4G. Same method as the iPhone 4, but a little bit easier because it doesn't have to have the baseband downgraded as well. The baseband is the cellular modem of the device which allows for it to communicate with the cell towers. Just like the actual iOS firmware itself, the baseband must be signed as well, and during the process of downgrading it must be resigned to work with the lower iOS version.
 
 * Thursday, December 8th - 3:00 PM - I successfully downgraded an iPhone 4 from iOS 7.1.2 to iOS 4.3.3. It is amazing that this method I used actually worked for once. This is normally not allowed by Apple by any means, but since it is tethered I could do it. Unfortunately, every time the device runs out of battery or reboots, it must be booted via a computer each time.
 
