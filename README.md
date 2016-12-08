@@ -8,6 +8,10 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
+* Thursday, December 8th - 1:15 PM - I finished the video, and now I am trying to tether downgrade an iPhone 4 from iOS 7.1.2 to iOS 4.3.3.
+
+* Thursday, December 8th - 11:15 AM - I started to try and shoot a better video of the iOS 4.3.3 jailbreak on an old iPod Touch 4G. The reason I chose this device was when it is booted by redsn0w, the tethered boot utility by [iH8sn0w](http://twitter.com/ih8sn0w), it runs with verbose boot enabled. This is the best way to boot a device, because it shows all the processes in the background.
+
 * Wednesday, December 7th - 6:30 PM - The windows partition on my laptop which I needed to downgrade a test iPhone, became corrupted, and therfore; I could't boot into Windows. I had to reinstall which meant swapping many drives in and out, so it was a little unproductive, but I needed to do this in order for my collab to be successful.
 
 ![Preview](images/disk1.JPG)
