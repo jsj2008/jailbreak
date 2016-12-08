@@ -8,6 +8,14 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
+* Thursday, December 8th - 5:45 PM -
+
+* Thursday, December 8th - 3:00 PM - I successfully downgraded an iPhone 4 from iOS 7.1.2 to iOS 4.3.3. It is amazing that this method I used actually worked for once. This is normally not allowed by Apple by any means, but since it is tethered I could do it. Unfortunately, every time the device runs out of battery or reboots, it must be booted via a computer each time.
+
+![Preview](images/4.1.png)
+![Preview](images/4.2.png)
+![Preview](images/4.3.png)
+
 * Thursday, December 8th - 1:15 PM - I finished the video, and now I am trying to tether downgrade an iPhone 4 from iOS 7.1.2 to iOS 4.3.3.
 
 * Thursday, December 8th - 11:15 AM - I started to try and shoot a better video of the iOS 4.3.3 jailbreak on an old iPod Touch 4G. The reason I chose this device was when it is booted by redsn0w, the tethered boot utility by [iH8sn0w](http://twitter.com/ih8sn0w), it runs with verbose boot enabled. This is the best way to boot a device, because it shows all the processes in the background.
