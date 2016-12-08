@@ -10,9 +10,9 @@ This is the repository that I will be using to document my progress and maintain
 
 * Wednesday, December 7th - 6:30 PM - The windows partition on my laptop which I needed to downgrade a test iPhone, became corrupted, and therfore; I could't boot into Windows. I had to reinstall which meant swapping many drives in and out, so it was a little unproductive, but I needed to do this in order for my collab to be successful.
 
-![Preview](images/disk1.png)
+![Preview](images/disk1.JPG)
 
-![Preview](images/disk2.png)
+![Preview](images/disk2.JPG)
 
 * Wednesday, December 7th - 2:30 PM - 
 
