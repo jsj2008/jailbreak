@@ -8,6 +8,10 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
+* Friday, December 9th - 2:00 PM - I finished the voice over for my iOS 10.1.1 iCloud Bypass. You can see the video [here](https://youtu.be/kZMlADN8LeU)
+
+* Friday, December 9th - 11:30 AM - I recorded an in depth video of my tethered downgrade to iOS 4.3.3 on an iPhone 4. I had Chris shoot the video because I had to use both of my hands. At first my laptop didn't boot and the tether boot failed once, but it worked successfully on the second try. I am explaining what went on, so hopefully most people will understand the process. The video can be viewed [here]()
+
 * Friday, December 9th - 9:00 AM - I started to compile the footage from all my downgrades into one video that I can do a voice over in addition to the part where I speak during the video.
 
 * Thursday, December 8th - 5:45 PM - Editing another voice over on the iBoot and tethered downgrade of an iPod Touch 4G. Same method as the iPhone 4, but a little bit easier because it doesn't have to have the baseband downgraded as well. The baseband is the cellular modem of the device which allows for it to communicate with the cell towers. Just like the actual iOS firmware itself, the baseband must be signed as well, and during the process of downgrading it must be resigned to work with the lower iOS version.
