@@ -8,9 +8,11 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
+* Friday, December 9th - 4:30 PM - I decided to return my focus to the exploration of previous jailbreaks. I want to compare what was similar between all of them for future generations of iOS that will make exploitation easier.
+
 * Friday, December 9th - 2:00 PM - I finished the voice over for my iOS 10.1.1 iCloud Bypass. You can see the video [here](https://youtu.be/kZMlADN8LeU)
 
-* Friday, December 9th - 11:30 AM - I recorded an in depth video of my tethered downgrade to iOS 4.3.3 on an iPhone 4. I had Chris shoot the video because I had to use both of my hands. At first my laptop didn't boot and the tether boot failed once, but it worked successfully on the second try. I am explaining what went on, so hopefully most people will understand the process. The video can be viewed [here]()
+* Friday, December 9th - 11:30 AM - I recorded an in depth video of my tethered downgrade to iOS 4.3.3 on an iPhone 4. I had Chris shoot the video because I had to use both of my hands. At first my laptop didn't boot and the tether boot failed once, but it worked successfully on the second try. I am explaining what went on, so hopefully most people will understand the process. The video can be viewed [here](https://youtu.be/NLkwfgARmYs)
 
 * Friday, December 9th - 9:00 AM - I started to compile the footage from all my downgrades into one video that I can do a voice over in addition to the part where I speak during the video.
 
