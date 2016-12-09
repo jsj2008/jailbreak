@@ -26,7 +26,7 @@ This is the repository that I will be using to document my progress and maintain
 
 ![Preview](images/disk2.JPG)
 
-* Wednesday, December 7th - 2:30 PM - 
+* Wednesday, December 7th - 2:30 PM - Started the downgrade of iPod Touch 4G, and iPhone 4 on iOS 6.1.6 and iOS 7.1.2 respectively.
 
 * Wednesday, December 7th - 12:00 PM - Another small update, planning on doing something like this [here](http://www.pmbonneau.com/apple/ios/multiboot_a.php), I have done it before, just comparing my method to this one.
 
