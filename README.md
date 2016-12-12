@@ -6,6 +6,10 @@
 
 This is the repository that I will be using to document my progress and maintain the code used in my private iOS 10.X jailbreak and resources and research used for jailbreaks for previous versions of iOS.
 
+# Pros & Cons
+
+* I have compiled a list of common pros and cons around the topic of jailbreaking [here](https://docs.google.com/document/d/1I1pxyYbGW9h0M1CUuEqR3Tv8Laf1uLF_8x-B5a1fQ5Y/edit?usp=sharing)
+
 # Daily Update
 
 * Friday, December 9th - 4:30 PM - I decided to return my focus to the exploration of previous jailbreaks. I want to compare what was similar between all of them for future generations of iOS that will make exploitation easier.
