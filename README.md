@@ -12,6 +12,8 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
+* Monday, December 12 - 12:00 PM - I started the presentation part for my symposium. There will be a lot of slides, because I need to explain all the topics and subtopics just to explain the idea of a jailbreak.
+
 * Monday, December 12 - 9:30 AM - I started a list of pros and cons surrounding the topic of jailbreaking. There is a long disclaimer at the beginning, but it is necessary for any of this project to make sense.
 
 * Friday, December 9th - 4:30 PM - I decided to return my focus to the exploration of previous jailbreaks. I want to compare what was similar between all of them for future generations of iOS that will make exploitation easier.
