@@ -12,6 +12,16 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
+* Tuesday, Decemeber 13 - 
+
+* Tuesday, Decemeber 13 - 
+
+* Tuesday, Decemeber 13 - 
+
+* Tuesday, Decemeber 13 - 
+
+* Tuesday, Decemeber 13 - Started decryption of iOS 9.3.2 for iPhone 4,1 and iOS 9.3.4 for iPad 3,1
+
 * Monday, December 12 - 6:00 PM - A little late, but I gathered the resources I will need to make my custom DFU restore board, which allows for the downgrade of devices without a computer, which will be good for people who need to boot their device without access to their computer. 
 
 * Monday, December 12 - 4:30 PM - I am about 75% done with the presentation. I am letting it roll and adding things as I go.
