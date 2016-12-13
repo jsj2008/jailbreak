@@ -12,6 +12,12 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
+* Monday, December 12 - 6:00 PM - A little late, but I gathered the resources I will need to make my custom DFU restore board, which allows for the downgrade of devices without a computer, which will be good for people who need to boot their device without access to their computer. 
+
+* Monday, December 12 - 4:30 PM - I am about 75% done with the presentation. I am letting it roll and adding things as I go.
+
+* Monday, December 12 - 2:00 PM - I am continuing my presentation. It is going well so far, but it is a lot harder for me to explain things that make sense in my head onto a presentation for other people.
+
 * Monday, December 12 - 12:00 PM - I started the presentation part for my symposium. There will be a lot of slides, because I need to explain all the topics and subtopics just to explain the idea of a jailbreak.
 
 * Monday, December 12 - 9:30 AM - I started a list of pros and cons surrounding the topic of jailbreaking. There is a long disclaimer at the beginning, but it is necessary for any of this project to make sense.
