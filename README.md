@@ -12,13 +12,15 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
-* Tuesday, Decemeber 13 - 
+* Tuesday, Decemeber 13 - Found the difference in the kernel caches. There were 180 thousand lines to scroll through. Found the offset at 0xFEEDFACE which is common for Apple Mach-0 files.
 
-* Tuesday, Decemeber 13 - 
+![Preview](images/offset.png)
 
-* Tuesday, Decemeber 13 - 
+* Tuesday, Decemeber 13 - Finally got the kernelcaches decrypted. Now I just need to scroll through thousands of lines of addresses to find the difference.
 
-* Tuesday, Decemeber 13 - 
+* Tuesday, Decemeber 13 - Everything going well except for the one thing holding me back and that is my perl script to decrypt the kernel cache img3 files will not work for there isn't a plugin installed. Thankfully that plugin is nowhere to be found even on the internet.
+
+* Tuesday, Decemeber 13 - Very long process to decrpy these firmwares. I have the leaked keys but there is the IV for each one that doesn't work for the iPad kernel cache.
 
 * Tuesday, Decemeber 13 - Started decryption of iOS 9.3.2 for iPhone 4,1 and iOS 9.3.4 for iPad 3,1
 
