@@ -1,4 +1,4 @@
-# Apple iOS Security - Derek Foresman 
+# Apple iOS Security & Exploitation - Derek Foresman 
 
 [© 2016 MTAC](https://twitter.com/mtac8 "MTAC Twitter")
 
@@ -11,6 +11,24 @@ This is the repository that I will be using to document my progress and maintain
 * I have compiled a list of common pros and cons around the topic of jailbreaking [here](https://docs.google.com/document/d/1I1pxyYbGW9h0M1CUuEqR3Tv8Laf1uLF_8x-B5a1fQ5Y/edit?usp=sharing)
 
 # Daily Update
+
+* Wednesday, December 14 - I am planning on putting all of this into a regualar looking charging brick so it will be inconspicuous. This could be bad if a user isn't careful because going to charge their iPhone could be jailbreaking it at the same time.
+
+![Preview](images/final.JPG)
+
+* Wednesday, December 14 - Finally got the kernel caches and other boot firmwares. This removes the need for a computer to jailbreak versions of iOS from iOS 4.X to 10.X. I will not release this as it is extremely valuable to have and can be bountied for millions of dollars.
+
+![Preview](images/arduino.JPG)
+
+* Wednesday, December 14 - 12:30 PM - Chris and I started soldering once we designed the Arduino and custom board. I had to find the kernel cache of each version of iOS from iOS 3.1.3 to iOS 10.2. I had to decrypt each kernel cache and run it through a process called lzssec which makes it readable by a dissassembler program. I then had to upload these to the Arduino and push it to the SD card on our custom board. 
+
+![Preview](images/kernel1.png)
+![Preview](images/kernel2.png)
+![Preview](images/kernel3.png)
+
+* Wednesday, December 14 - 10:00 AM - I started the design of my device to make all devices have an untethered jailbreak. I will need to solder a custom board to upload the payload needed to jailbreak the device without a computer
+
+![Preview](images/board.JPG)
 
 * Tuesday, Decemeber 13 - Found the difference in the kernel caches. There were 180 thousand lines to scroll through. Found the offset at 0xFEEDFACE which is common for Apple Mach-0 files.
 
