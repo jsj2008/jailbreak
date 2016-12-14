@@ -12,7 +12,7 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
-* Wednesday, December 14 - I am planning on putting all of this into a regualar looking charging brick so it will be inconspicuous. This could be bad if a user isn't careful because going to charge their iPhone could be jailbreaking it at the same time.
+* Wednesday, December 14 - I am planning on putting all of this into a regular looking charging brick so it will be inconspicuous. This could be bad if a user isn't careful because going to charge their iPhone could be jailbreaking it at the same time.
 
 ![Preview](images/final.JPG)
 
