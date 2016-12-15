@@ -16,7 +16,7 @@ This is the repository that I will be using to document my progress and maintain
 
 * Thursday, December 15 - 
 
-* Thursday, December 15 - 1:30 PM - 
+* Thursday, December 15 - 1:30 PM - Started the layout of my presentation board for the symposium.
 
 * Thursday, December 15 - 11:15 AM - I am starting to try to design the untether board to fit into a regular USB wall charger. Other than that, I need to answer Mr. English's questions and continue to prepare my project for the symposium.
 
