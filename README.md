@@ -12,6 +12,14 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
+* Thursday, December 15 - 
+
+* Thursday, December 15 - 
+
+* Thursday, December 15 - 1:30 PM - 
+
+* Thursday, December 15 - 11:15 AM - I am starting to try to design the untether board to fit into a regular USB wall charger. Other than that, I need to answer Mr. English's questions and continue to prepare my project for the symposium.
+
 * Wednesday, December 14 - I am planning on putting all of this into a regular looking charging brick so it will be inconspicuous. This could be bad if a user isn't careful because going to charge their iPhone could be jailbreaking it at the same time.
 
 ![Preview](images/final.JPG)
