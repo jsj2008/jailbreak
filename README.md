@@ -12,9 +12,11 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
-* Thursday, December 15 - 
+* Friday, December 16 - 9:00 AM - I need to set up a private network for symposium.
 
-* Thursday, December 15 - 
+* Thursday, December 15 - 6:00 PM - Worked for 5 or so hours getting this exploit to work. Finally spawned root shell...
+
+* Thursday, December 15 - 2:30 PM - A new exploit for iOS 10 was released, testing it now.
 
 * Thursday, December 15 - 1:30 PM - Started the layout of my presentation board for the symposium.
 
