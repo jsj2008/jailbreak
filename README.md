@@ -12,7 +12,13 @@ This is the repository that I will be using to document my progress and maintain
 
 # Daily Update
 
-* Friday, December 16 - 9:00 AM - I need to set up a private network for symposium.
+* Friday, December 16 - 2:30 PM - Waiting for @qwertyoruiop to patch the /system partition for read/write.
+
+* Friday, December 16 - 1:00 PM - I continued experimenting with my root shell on iOS 10.1.1. Filesystem is still read/write though.
+
+* Friday, December 16 - 10:30 AM - Started laying out my project board. I plan on making the disclaimer right at the front because it needs to be read first.
+
+* Friday, December 16 - 9:00 AM - I need to set up a private network for symposium. I plan on asking Mr. Blais for a specific network for that day.
 
 * Thursday, December 15 - 6:00 PM - Worked for 5 or so hours getting this exploit to work. Finally spawned root shell...
 
